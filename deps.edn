@@ -1,0 +1,2 @@
+{:deps
+ {kibu/pushy {:mvn/version "0.3.8"}}}
