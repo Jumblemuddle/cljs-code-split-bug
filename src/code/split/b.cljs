@@ -1,7 +1,9 @@
 (ns code.split.b
   (:require [cljs.loader :as loader]
-            [code.split.d :as d])
-  (:import goog.History))
+            [code.split.d :as d]
+            [code.example.alpha]
+            ;; [code.example.bravo]
+            ))
 
 (defn hello []
   (println "Hello from code.split.b.")
